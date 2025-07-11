@@ -115,7 +115,7 @@ chess-engine/
 - [python-chess](https://python-chess.readthedocs.io/)
 - [pygame](https://www.pygame.org/)
 - [PyTorch](https://pytorch.org/)
-- Chess piece images: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent)
 
 ---
 
