@@ -1,0 +1,5 @@
+python-chess
+pygame
+cairosvg
+streamlit
+torch 
